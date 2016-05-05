@@ -1,6 +1,6 @@
 {
 	"name": "@cubitworx/string-polyfill",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "String polyfill methods for ECMAScript 6 specification",
 	"repository": {
 		"type": "git",
