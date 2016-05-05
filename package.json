@@ -1,0 +1,14 @@
+{
+	"name": "@cubitworx/string-polyfill",
+	"version": "0.0.1",
+	"description": "String polyfill methods for ECMAScript 6 specification",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cubitworx/string-polyfill.git"
+	},
+	"author": {
+		"name": "Charles Louw",
+		"email": "charles.louw@gmail.com"
+	},
+	"license": "MIT"
+}
