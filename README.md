@@ -1,4 +1,4 @@
-# @cubitworx/string-polyfill
+# string-polyfill
 String polyfill methods for ECMAScript 6 specification & other usefull string manipulation
 
 
